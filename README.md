@@ -14,6 +14,6 @@
 
 # Setup
 
-- run `./download.ps1 >> data.json` in Powershell
+- run `./download.ps1 >> data.txt` in Powershell
 - run `process.py` met Python
 - run `HHSVoornaam.exe` of (als je executables niet vertrouwt) installeer [Auto Hotkey](https://www.autohotkey.com/) en run `HHSVoornaam.ahk`
